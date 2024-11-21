@@ -9,6 +9,7 @@ from utils import MessageEventData
 from vkplus import Message
 
 
+
 class CommandSystem(object):
     def __init__(self, commands, plugin_system: PluginSystem):
         # Система плагинов
